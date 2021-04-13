@@ -25,6 +25,7 @@ vértices mı́nima, que é o que desejamos.
 
 Figure 1: Exemplo de grafo G, obtido a partir das arestas {(5, 3), (5, 4), (2, 5), (2, 1), (3, 1)}
 
+![figure](https://github.com/icps/vertex_cover/blob/main/PAA%20TP2%20-%20Cobertura.png)
 
 
 
